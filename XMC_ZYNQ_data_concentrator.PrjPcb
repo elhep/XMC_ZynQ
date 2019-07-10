@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for XMC_ZYNQ_data_concentrator
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -89,23 +89,6 @@ GenerateClassCluster=0
 DocumentUniqueId=DPPCQTFG
 
 [Document4]
-DocumentPath=PL_PS_power_pins.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=6
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DTAVZWKQ
-
-[Document5]
 DocumentPath=Power_supply_converters_1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MGIOQMUK
 
-[Document6]
+[Document5]
 DocumentPath=Power_supply_converters_2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ENMSEOEZ
 
-[Document7]
+[Document6]
 DocumentPath=Current_monitoring.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -155,6 +138,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZIXTTGYH
+
+[Document7]
+DocumentPath=Zynq_configuration.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=17
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DBPPFZSB
 
 [Document8]
 DocumentPath=DDR_controller_ZYNQ.SchDoc
@@ -208,23 +208,6 @@ GenerateClassCluster=0
 DocumentUniqueId=ESYFPBSB
 
 [Document11]
-DocumentPath=Zynq_configuration.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=17
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DBPPFZSB
-
-[Document12]
 DocumentPath=NAND_flash.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OZNJQOHP
 
-[Document13]
+[Document12]
 DocumentPath=Clock_distribution.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VYTPFJBA
 
-[Document14]
+[Document13]
 DocumentPath=Front_panel.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LDJJNKMO
 
-[Document15]
+[Document14]
 DocumentPath=XMC_Zynq.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EEOSFIQO
 
-[Document16]
+[Document15]
 DocumentPath=Front_panel.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document16]
 DocumentPath=XMC_P15_connector.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document17]
 DocumentPath=XMC_P16_connector.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document18]
 DocumentPath=NAND_flash.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,24 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
-DocumentPath=Zynq_configuration.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document21]
+[Document19]
 DocumentPath=HD_banks.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LJCEYBIG
 
-[Document22]
+[Document20]
 DocumentPath=Harness_defs_1.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document21]
 DocumentPath=HP_banks.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QGDVJGLP
 
-[Document24]
+[Document22]
 DocumentPath=MIO_banks.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RPJUHKRQ
 
-[Document25]
+[Document23]
 DocumentPath=MIO_banks.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document24]
 DocumentPath=HD_banks.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document25]
 DocumentPath=PL_DDR4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -496,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LWVQEZRB
 
-[Document28]
+[Document26]
 DocumentPath=PL_DDR4.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -513,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document27]
 DocumentPath=Clock_distribution.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -530,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document28]
 DocumentPath=PL_DDR4_termination.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -547,7 +513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MJEPSRBF
 
-[Document31]
+[Document29]
 DocumentPath=DDR_controller_ZYNQ.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -564,7 +530,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document30]
 DocumentPath=HP_banks.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -581,7 +547,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document33]
+[Document31]
 DocumentPath=PS_DDR4_termination.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -598,7 +564,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document34]
+[Document32]
 DocumentPath=PL_DDR4_termination.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -615,7 +581,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document35]
+[Document33]
 DocumentPath=PS_DDR4.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -632,7 +598,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document36]
+[Document34]
 DocumentPath=Power_supply_converters_1.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -649,7 +615,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+[Document35]
 DocumentPath=Power_supply_converters_2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -665,6 +631,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document36]
+DocumentPath=Zynq_MGT_1.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=40
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PENBPFEN
+
+[Document37]
+DocumentPath=Zynq_MGT_2.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=41
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZJYYEACP
 
 [Document38]
 DocumentPath=MGT_power_pins.SchDoc
@@ -684,13 +684,13 @@ GenerateClassCluster=0
 DocumentUniqueId=JICVDHUY
 
 [Document39]
-DocumentPath=Zynq_MGT_1.SchDoc
+DocumentPath=PL_PS_power_pins.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=40
+AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -698,26 +698,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PENBPFEN
+DocumentUniqueId=DTAVZWKQ
 
 [Document40]
-DocumentPath=Zynq_MGT_2.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=41
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ZJYYEACP
-
-[Document41]
 DocumentPath=Job1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -734,7 +717,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document42]
+[Document41]
 DocumentPath=Zynq_MGT_1.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -751,7 +734,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document42]
 DocumentPath=Zynq_MGT_2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -767,6 +750,49 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document43]
+DocumentPath=Zynq_configuration.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[ProjectVariant1]
+UniqueID=BA14C730-CB51-4EE8-9834-EF5949E2B95E
+Description=No GTR to front panel
+AllowFabrication=0
+ParameterCount=0
+VariationCount=18
+Variation1=Designator=C320|UniqueId=\KZFMYNRM\ZOZSMORY|Kind=1|AlternatePart= 
+Variation2=Designator=C321|UniqueId=\KZFMYNRM\ODUTUZJM|Kind=1|AlternatePart= 
+Variation3=Designator=C322|UniqueId=\KZFMYNRM\FNTCATHM|Kind=1|AlternatePart= 
+Variation4=Designator=C323|UniqueId=\KZFMYNRM\IIYEXPUI|Kind=1|AlternatePart= 
+Variation5=Designator=C324|UniqueId=\KZFMYNRM\OUKIAYDS|Kind=1|AlternatePart= 
+Variation6=Designator=C325|UniqueId=\KZFMYNRM\IRWXJGFK|Kind=1|AlternatePart= 
+Variation7=Designator=C326|UniqueId=\KZFMYNRM\VWLLSAQF|Kind=1|AlternatePart= 
+Variation8=Designator=C327|UniqueId=\KZFMYNRM\TMFFSTWZ|Kind=1|AlternatePart= 
+Variation9=Designator=R224|UniqueId=\VNVHPHIM\JSEHLAOW|Kind=1|AlternatePart= 
+Variation10=Designator=R100|UniqueId=\VNVHPHIM\ONXAOGUV|Kind=1|AlternatePart= 
+Variation11=Designator=R101|UniqueId=\VNVHPHIM\WNDMQWDF|Kind=1|AlternatePart= 
+Variation12=Designator=R102|UniqueId=\VNVHPHIM\YWMPNGOV|Kind=1|AlternatePart= 
+Variation13=Designator=R146|UniqueId=\VNVHPHIM\RGVLLAPA|Kind=1|AlternatePart= 
+Variation14=Designator=R108|UniqueId=\VNVHPHIM\FASXXHLY|Kind=1|AlternatePart= 
+Variation15=Designator=R99|UniqueId=\VNVHPHIM\UEFHFIAD|Kind=1|AlternatePart= 
+Variation16=Designator=R37|UniqueId=\VNVHPHIM\BLQUXOMM|Kind=1|AlternatePart= 
+Variation17=Designator=R218|UniqueId=\VNVHPHIM\LHJFXOIZ|Kind=1|AlternatePart= 
+Variation18=Designator=R98|UniqueId=\VNVHPHIM\LJVOYCRF|Kind=1|AlternatePart= 
+ParamVariationCount=0
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Free Documents\BOM\Bill of Materials-XMC_ZYNQ_data_concentrator.xls
@@ -785,6 +811,45 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=
 ConfigurationType=
+
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=-1
+
+[Generic_SmartPDFSettings]
+ProjectMode=-1
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=0
+TemplateFilename=
+TemplateStoreRelative=-1
+PCB_PrintColor=1
+SCH_PrintColor=0
+PrintQuality=-4
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+SCH_ExpandLogicalToPhysical=-1
+SCH_VariantName=No GTR to front panel
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=0
+
+[Generic_EDE]
+OutputDir=Project Outputs for XMC_ZYNQ_data_concentrator
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -895,7 +960,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=hp LaserJet 1300 PCL 5
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
