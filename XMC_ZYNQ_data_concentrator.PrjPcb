@@ -273,7 +273,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=EEOSFIQO
+DocumentUniqueId=DFERIMWA
 
 [Document15]
 DocumentPath=Front_panel.Harness
@@ -701,23 +701,6 @@ GenerateClassCluster=0
 DocumentUniqueId=DTAVZWKQ
 
 [Document40]
-DocumentPath=Job1.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document41]
 DocumentPath=Zynq_MGT_1.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -734,7 +717,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document42]
+[Document41]
 DocumentPath=Zynq_MGT_2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -751,7 +734,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document42]
 DocumentPath=Zynq_configuration.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -774,14 +757,14 @@ Description=No GTR to front panel
 AllowFabrication=0
 ParameterCount=0
 VariationCount=18
-Variation1=Designator=C320|UniqueId=\KZFMYNRM\ZOZSMORY|Kind=1|AlternatePart= 
-Variation2=Designator=C321|UniqueId=\KZFMYNRM\ODUTUZJM|Kind=1|AlternatePart= 
-Variation3=Designator=C322|UniqueId=\KZFMYNRM\FNTCATHM|Kind=1|AlternatePart= 
-Variation4=Designator=C323|UniqueId=\KZFMYNRM\IIYEXPUI|Kind=1|AlternatePart= 
-Variation5=Designator=C324|UniqueId=\KZFMYNRM\OUKIAYDS|Kind=1|AlternatePart= 
-Variation6=Designator=C325|UniqueId=\KZFMYNRM\IRWXJGFK|Kind=1|AlternatePart= 
-Variation7=Designator=C326|UniqueId=\KZFMYNRM\VWLLSAQF|Kind=1|AlternatePart= 
-Variation8=Designator=C327|UniqueId=\KZFMYNRM\TMFFSTWZ|Kind=1|AlternatePart= 
+Variation1=Designator=C320|UniqueId=\EAMQADDO\ROWUIKJR|Kind=1|AlternatePart= 
+Variation2=Designator=C321|UniqueId=\EAMQADDO\HCFXEMYQ|Kind=1|AlternatePart= 
+Variation3=Designator=C322|UniqueId=\EAMQADDO\HMCIVCPE|Kind=1|AlternatePart= 
+Variation4=Designator=C323|UniqueId=\EAMQADDO\WPCNPEXB|Kind=1|AlternatePart= 
+Variation5=Designator=C324|UniqueId=\EAMQADDO\LKHCUVZR|Kind=1|AlternatePart= 
+Variation6=Designator=C325|UniqueId=\EAMQADDO\NTMVTNES|Kind=1|AlternatePart= 
+Variation7=Designator=C326|UniqueId=\EAMQADDO\KOOWSKJY|Kind=1|AlternatePart= 
+Variation8=Designator=C327|UniqueId=\EAMQADDO\ZQEYSXVO|Kind=1|AlternatePart= 
 Variation9=Designator=R224|UniqueId=\VNVHPHIM\JSEHLAOW|Kind=1|AlternatePart= 
 Variation10=Designator=R100|UniqueId=\VNVHPHIM\ONXAOGUV|Kind=1|AlternatePart= 
 Variation11=Designator=R101|UniqueId=\VNVHPHIM\WNDMQWDF|Kind=1|AlternatePart= 
@@ -795,14 +778,10 @@ Variation18=Designator=R98|UniqueId=\VNVHPHIM\LJVOYCRF|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Free Documents\BOM\Bill of Materials-XMC_ZYNQ_data_concentrator.xls
+DocumentPath=Project Outputs for XMC_ZYNQ_data_concentrator\BGA Escape Route - XMC_Zynq.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for XMC_ZYNQ_data_concentrator\BOM\Bill of Materials-XMC_ZYNQ_data_concentrator.xls
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=Project Outputs for XMC_ZYNQ_data_concentrator\Design Rule Check - XMC_Zynq.html
 DItemRevisionGUID=
 
@@ -858,7 +837,7 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=PCADNetlist
 OutputName1=PCAD Netlist
@@ -964,7 +943,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=hp LaserJet 1300 PCL 5
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1036,7 +1015,7 @@ PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -1058,7 +1037,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -1130,7 +1109,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -1138,6 +1117,18 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
@@ -1167,7 +1158,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1347,7 +1338,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Configuration compliance
 OutputName1=Environment configuration compliance check
@@ -1391,7 +1382,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1438,11 +1429,21 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=MBAExportPARASOLID
+OutputName10=Export PARASOLID
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=MBAExportSTEP
+OutputName11=Export STEP
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -3107,184 +3108,6 @@ ModelUpdate46=1
 SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
-
-[NetInfos]
-Net1=NetName=PS_DDR4_DQ35|NetColor=$00FF6EFF
-Net2=NetName=PS_DDR4_DQS4_P|NetColor=$00FF6EFF
-Net3=NetName=PS_DDR4_A9|NetColor=$00FFFF6E
-Net4=NetName=PS_DDR4_DBI.PS_DDR4_DM_DBI8|NetColor=$00AD7500
-Net5=NetName=PS_DDR4_ACT|NetColor=$00FFFF6E
-Net6=NetName=PS_DDR4_DBI.PS_DDR4_DM_DBI6|NetColor=$000062C2
-Net7=NetName=PS_DDR4_DQ15|NetColor=clTeal
-Net8=NetName=PS_DDR4_DQ22|NetColor=clYellow
-Net9=NetName=PS_DDR4_DQS.PS_DDR4_DQS6_c|NetColor=$000062C2
-Net10=NetName=PS_DDR4_DM_DBI6|NetColor=$000062C2
-Net11=NetName=PS_DDR4_DQS.PS_DDR4_DQS7_c|NetColor=$000062C2
-Net12=NetName=PS_DDR4_DQ37|NetColor=$00FF6EFF
-Net13=NetName=PS_DDR4_DQ18|NetColor=clYellow
-Net14=NetName=PS_DDR4_DQ25|NetColor=clYellow
-Net15=NetName=PS_DDR4_DQ30|NetColor=clYellow
-Net16=NetName=PS_DDR4_DQS5_P|NetColor=$00FF6EFF
-Net17=NetName=PS_DDR4_DQS6_P|NetColor=$000062C2
-Net18=NetName=PS_DDR4_DBI.PS_DDR4_DM_DBI4|NetColor=$00FF6EFF
-Net19=NetName=PS_DDR4_CTRL.PS_DDR4_BA1|NetColor=$00FFFF6E
-Net20=NetName=PS_DDR4_DBI.PS_DDR4_DM_DBI5|NetColor=$00FF6EFF
-Net21=NetName=PS_DDR4_A15|NetColor=$00FFFF6E
-Net22=NetName=PS_DDR4_DQ19|NetColor=clYellow
-Net23=NetName=PS_DDR4_DQ21|NetColor=clYellow
-Net24=NetName=PS_DDR4_DQS.PS_DDR4_DQS6_t|NetColor=$000062C2
-Net25=NetName=PS_DDR4_DM_DBI5|NetColor=$00FF6EFF
-Net26=NetName=PS_DDR4_DQ45|NetColor=$00FF6EFF
-Net27=NetName=PS_DDR4_ODT|NetColor=$00FFFF6E
-Net28=NetName=PS_DDR4_DQS3_P|NetColor=clYellow
-Net29=NetName=PS_DDR4_DQ52|NetColor=$000062C2
-Net30=NetName=PS_DDR4_CK_P|NetColor=$00FFFF6E
-Net31=NetName=PS_DDR4_DBI.PS_DDR4_DM_DBI7|NetColor=$000062C2
-Net32=NetName=PS_DDR4_DQ65|NetColor=$00AD7500
-Net33=NetName=PS_DDR4_DQ12|NetColor=clTeal
-Net34=NetName=PS_DDR4_RESET|NetColor=$00FFFF6E
-Net35=NetName=PS_DDR4_DM_DBI1|NetColor=$00816200
-Net36=NetName=PS_DDR4_DQ58|NetColor=$000062C2
-Net37=NetName=PS_DDR4_DQ49|NetColor=$000062C2
-Net38=NetName=VPWR|NetColor=$0000BE00
-Net39=NetName=PS_DDR4_CTRL.PS_DDR4_CKE|NetColor=$00FFFF6E
-Net40=NetName=PS_DDR4_ALERT|NetColor=$00FFFF6E
-Net41=NetName=PS_DDR4_DQ13|NetColor=clTeal
-Net42=NetName=PS_DDR4_DQS0_N|NetColor=$0000BE00
-Net43=NetName=PS_DDR4_DQS1_P|NetColor=$00816200
-Net44=NetName=PS_DDR4_A13|NetColor=$00FFFF6E
-Net45=NetName=PS_DDR4_DQS.PS_DDR4_DQS5_t|NetColor=$00FF6EFF
-Net46=NetName=PS_DDR4_CTRL.PS_DDR4_BA0|NetColor=$00FFFF6E
-Net47=NetName=PS_DDR4_DQS8_N|NetColor=$00AD7500
-Net48=NetName=PS_DDR4_DM_DBI7|NetColor=$000062C2
-Net49=NetName=PS_DDR4_DQS.PS_DDR4_DQS3_c|NetColor=clYellow
-Net50=NetName=PS_DDR4_A11|NetColor=$00FFFF6E
-Net51=NetName=PS_DDR4_DQ61|NetColor=$000062C2
-Net52=NetName=PS_DDR4_PAR|NetColor=$00FFFF6E
-Net53=NetName=PS_DDR4_A12|NetColor=$00FFFF6E
-Net54=NetName=PS_DDR4_DQ34|NetColor=$00FF6EFF
-Net55=NetName=PS_DDR4_DQ67|NetColor=$00AD7500
-Net56=NetName=PS_DDR4_DQ63|NetColor=$000062C2
-Net57=NetName=PS_DDR4_DBI.PS_DDR4_DM_DBI3|NetColor=clYellow
-Net58=NetName=PS_DDR4_DQ|NetColor=clTeal
-Net59=NetName=PS_DDR4_BA0|NetColor=$00FFFF6E
-Net60=NetName=XMC_VPWR|NetColor=$006E6EFF
-Net61=NetName=PS_DDR4_DQS.PS_DDR4_DQS1_c|NetColor=$00816200
-Net62=NetName=PS_DDR4_DQS.PS_DDR4_DQS4_c|NetColor=$00FF6EFF
-Net63=NetName=PS_DDR4_CTRL.PS_DDR4_CK_N|NetColor=$00FFFF6E
-Net64=NetName=PS_DDR4_DQ62|NetColor=$000062C2
-Net65=NetName=PS_DDR4_A2|NetColor=$00FFFF6E
-Net66=NetName=PS_DDR4_DQS2_P|NetColor=clYellow
-Net67=NetName=PS_DDR4_CTRL.PS_DDR4_BG0|NetColor=$00FFFF6E
-Net68=NetName=PS_DDR4_DQS7_N|NetColor=$000062C2
-Net69=NetName=PS_DDR4_DQS.PS_DDR4_DQS2_c|NetColor=clYellow
-Net70=NetName=PS_DDR4_DQ4|NetColor=$0000BE00
-Net71=NetName=PS_DDR4_DQ39|NetColor=$00FF6EFF
-Net72=NetName=PS_DDR4_DQ16|NetColor=clYellow
-Net73=NetName=PS_DDR4_DQ57|NetColor=$000062C2
-Net74=NetName=PS_DDR4_DQS.PS_DDR4_DQS0_t|NetColor=$0000BE00
-Net75=NetName=PS_DDR4_DQ44|NetColor=$00FF6EFF
-Net76=NetName=PS_DDR4_DQ23|NetColor=clYellow
-Net77=NetName=PS_DDR4_A8|NetColor=$00FFFF6E
-Net78=NetName=PS_DDR4_DQS3_N|NetColor=clYellow
-Net79=NetName=PS_DDR4_DQ59|NetColor=$000062C2
-Net80=NetName=PS_DDR4_BG0|NetColor=$00FFFF6E
-Net81=NetName=PS_DDR4_DQ8|NetColor=clTeal
-Net82=NetName=PS_DDR4_A7|NetColor=$00FFFF6E
-Net83=NetName=PS_DDR4_DQ6|NetColor=$0000BE00
-Net84=NetName=PS_DDR4_DQ7|NetColor=$0000BE00
-Net85=NetName=PS_DDR4_A0|NetColor=$00FFFF6E
-Net86=NetName=PS_DDR4_A5|NetColor=$00FFFF6E
-Net87=NetName=PS_DDR4_DQ66|NetColor=$00AD7500
-Net88=NetName=PS_DDR4_DQ70|NetColor=$00AD7500
-Net89=NetName=PS_DDR4_DBI.PS_DDR4_DM_DBI2|NetColor=clYellow
-Net90=NetName=PS_DDR4_A4|NetColor=$00FFFF6E
-Net91=NetName=PS_DDR4_DQ51|NetColor=$000062C2
-Net92=NetName=PS_DDR4_CTRL.PS_DDR4_ODT|NetColor=$00FFFF6E
-Net93=NetName=PS_DDR4_A1|NetColor=$00FFFF6E
-Net94=NetName=PS_DDR4_A3|NetColor=$00FFFF6E
-Net95=NetName=PS_DDR4_DQS.PS_DDR4_DQS2_t|NetColor=clYellow
-Net96=NetName=PS_DDR4_DM_DBI4|NetColor=$00FF6EFF
-Net97=NetName=PS_DDR4_DQS.PS_DDR4_DQS8_t|NetColor=$00AD7500
-Net98=NetName=PS_DDR4_DM_DBI2|NetColor=clYellow
-Net99=NetName=PS_DDR4_DQS.PS_DDR4_DQS0_c|NetColor=$0000BE00
-Net100=NetName=PS_DDR4_DQ3|NetColor=$0000BE00
-Net101=NetName=PS_DDR4_DQS6_N|NetColor=$000062C2
-Net102=NetName=PS_DDR4_DQ27|NetColor=clYellow
-Net103=NetName=PS_DDR4_DQ68|NetColor=$00AD7500
-Net104=NetName=PS_DDR4_DQS.PS_DDR4_DQS1_t|NetColor=$00816200
-Net105=NetName=PS_DDR4_CTRL.PS_DDR4_RESET|NetColor=$00FFFF6E
-Net106=NetName=PS_DDR4_DQ54|NetColor=$000062C2
-Net107=NetName=PS_DDR4_DQ56|NetColor=$000062C2
-Net108=NetName=PS_DDR4_DQ69|NetColor=$00AD7500
-Net109=NetName=PS_DDR4_DQ17|NetColor=clYellow
-Net110=NetName=PS_DDR4_DQ47|NetColor=$00FF6EFF
-Net111=NetName=PS_DDR4_CTRL.PS_DDR4_TEN|NetColor=$00FFFF6E
-Net112=NetName=PS_DDR4_DQ46|NetColor=$00FF6EFF
-Net113=NetName=PS_DDR4_CS|NetColor=$00FFFF6E
-Net114=NetName=PS_DDR4_DQS0_P|NetColor=$0000BE00
-Net115=NetName=PS_DDR4_DQ1|NetColor=$0000BE00
-Net116=NetName=PS_DDR4_DQS5_N|NetColor=$00FF6EFF
-Net117=NetName=PS_DDR4_DM_DBI8|NetColor=$00AD7500
-Net118=NetName=PS_DDR4_A|NetColor=$00FFFF6E
-Net119=NetName=PS_DDR4_DQ14|NetColor=clTeal
-Net120=NetName=PS_DDR4_DQ43|NetColor=$00FF6EFF
-Net121=NetName=PS_DDR4_DQ11|NetColor=clTeal
-Net122=NetName=PS_DDR4_DQ38|NetColor=$00FF6EFF
-Net123=NetName=PS_DDR4_CTRL.PS_DDR4_ALERT|NetColor=$00FFFF6E
-Net124=NetName=PS_DDR4_CTRL.PS_DDR4_CK_P|NetColor=$00FFFF6E
-Net125=NetName=PS_DDR4_DM_DBI3|NetColor=clYellow
-Net126=NetName=PS_DDR4_DQS.PS_DDR4_DQS5_c|NetColor=$00FF6EFF
-Net127=NetName=PS_DDR4_DQS1_N|NetColor=$00816200
-Net128=NetName=PS_DDR4_DQ10|NetColor=clTeal
-Net129=NetName=PS_DDR4_A10|NetColor=$00FFFF6E
-Net130=NetName=PS_DDR4_DQS2_N|NetColor=clYellow
-Net131=NetName=PS_DDR4_CK_N|NetColor=$00FFFF6E
-Net132=NetName=PS_DDR4_DM_DBI0|NetColor=$0000BE00
-Net133=NetName=PS_DDR4_DQ64|NetColor=$00AD7500
-Net134=NetName=PS_DDR4_DQ41|NetColor=$00FF6EFF
-Net135=NetName=PS_DDR4_DQ26|NetColor=clYellow
-Net136=NetName=PS_DDR4_DQS.PS_DDR4_DQS7_t|NetColor=$000062C2
-Net137=NetName=PS_DDR4_DQ9|NetColor=clTeal
-Net138=NetName=PS_DDR4_CTRL.PS_DDR4_ACT|NetColor=$00FFFF6E
-Net139=NetName=PS_DDR4_A6|NetColor=$00FFFF6E
-Net140=NetName=PS_DDR4_DQ71|NetColor=$00AD7500
-Net141=NetName=PS_DDR4_TEN|NetColor=$00FFFF6E
-Net142=NetName=PS_DDR4_DQ55|NetColor=$000062C2
-Net143=NetName=PS_DDR4_DQ48|NetColor=$000062C2
-Net144=NetName=PS_DDR4_DQ32|NetColor=$00FF6EFF
-Net145=NetName=PS_DDR4_DQ42|NetColor=$00FF6EFF
-Net146=NetName=PS_DDR4_A16|NetColor=$00FFFF6E
-Net147=NetName=P12V0|NetColor=$0000BE00
-Net148=NetName=PS_DDR4_DQ2|NetColor=$0000BE00
-Net149=NetName=PS_DDR4_DQS7_P|NetColor=$000062C2
-Net150=NetName=PS_DDR4_DQS.PS_DDR4_DQS3_t|NetColor=clYellow
-Net151=NetName=PS_DDR4_DQ5|NetColor=$0000BE00
-Net152=NetName=PS_DDR4_DQ29|NetColor=clYellow
-Net153=NetName=PS_DDR4_A[0..16]|NetColor=$00FFFF6E
-Net154=NetName=PS_DDR4_CTRL.PS_DDR4_PAR|NetColor=$00FFFF6E
-Net155=NetName=PS_DDR4_DQ50|NetColor=$000062C2
-Net156=NetName=PS_DDR4_DQS8_P|NetColor=$00AD7500
-Net157=NetName=PS_DDR4_DQ20|NetColor=clYellow
-Net158=NetName=PS_DDR4_CTRL.PS_DDR4_CS|NetColor=$00FFFF6E
-Net159=NetName=PS_DDR4_DQ40|NetColor=$00FF6EFF
-Net160=NetName=P3V3|NetColor=$006EFF6E
-Net161=NetName=PS_DDR4_DBI.PS_DDR4_DM_DBI0|NetColor=$0000BE00
-Net162=NetName=PS_DDR4_CKE|NetColor=$00FFFF6E
-Net163=NetName=PS_DDR4_DQ24|NetColor=clYellow
-Net164=NetName=PS_DDR4_DQS4_N|NetColor=$00FF6EFF
-Net165=NetName=PS_DDR4_BA1|NetColor=$00FFFF6E
-Net166=NetName=PS_DDR4_DQ0|NetColor=$0000BE00
-Net167=NetName=PS_DDR4_DQS.PS_DDR4_DQS8_c|NetColor=$00AD7500
-Net168=NetName=PS_DDR4_DQS.PS_DDR4_DQS4_t|NetColor=$00FF6EFF
-Net169=NetName=PS_DDR4_DBI.PS_DDR4_DM_DBI1|NetColor=$00816200
-Net170=NetName=PS_DDR4_DQ36|NetColor=$00FF6EFF
-Net171=NetName=PS_DDR4_DQ60|NetColor=$000062C2
-Net172=NetName=PS_DDR4_DQ31|NetColor=clYellow
-Net173=NetName=PS_DDR4_A14|NetColor=$00FFFF6E
-Net174=NetName=PS_DDR4_DQ53|NetColor=$000062C2
-Net175=NetName=PS_DDR4_DQ28|NetColor=clYellow
-Net176=NetName=PS_DDR4_DQ33|NetColor=$00FF6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
