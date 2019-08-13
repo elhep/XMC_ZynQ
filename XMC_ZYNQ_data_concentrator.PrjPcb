@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for XMC_ZYNQ_data_concentrator
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -807,7 +807,7 @@ UniqueID=BA14C730-CB51-4EE8-9834-EF5949E2B95E
 Description=No GTR to front panel
 AllowFabrication=0
 ParameterCount=0
-VariationCount=18
+VariationCount=26
 Variation1=Designator=C320|UniqueId=\EAMQADDO\ROWUIKJR|Kind=1|AlternatePart= 
 Variation2=Designator=C321|UniqueId=\EAMQADDO\HCFXEMYQ|Kind=1|AlternatePart= 
 Variation3=Designator=C322|UniqueId=\EAMQADDO\HMCIVCPE|Kind=1|AlternatePart= 
@@ -825,7 +825,15 @@ Variation14=Designator=R108|UniqueId=\VNVHPHIM\FASXXHLY|Kind=1|AlternatePart=
 Variation15=Designator=R99|UniqueId=\VNVHPHIM\UEFHFIAD|Kind=1|AlternatePart= 
 Variation16=Designator=R37|UniqueId=\VNVHPHIM\BLQUXOMM|Kind=1|AlternatePart= 
 Variation17=Designator=R218|UniqueId=\VNVHPHIM\LHJFXOIZ|Kind=1|AlternatePart= 
-Variation18=Designator=R98|UniqueId=\VNVHPHIM\LJVOYCRF|Kind=1|AlternatePart= 
+Variation18=Designator=R98|UniqueId=\VNVHPHIM\ZJILLCHM|Kind=1|AlternatePart= 
+Variation19=Designator=C388|UniqueId=\KMPZSTXG\TKMMCQLT|Kind=1|AlternatePart= 
+Variation20=Designator=C391|UniqueId=\KMPZSTXG\SYNOHDKP|Kind=1|AlternatePart= 
+Variation21=Designator=C394|UniqueId=\KMPZSTXG\QIHKHIQB|Kind=1|AlternatePart= 
+Variation22=Designator=C397|UniqueId=\KMPZSTXG\YMGRXRIP|Kind=1|AlternatePart= 
+Variation23=Designator=C400|UniqueId=\KMPZSTXG\MYRWSFAI|Kind=1|AlternatePart= 
+Variation24=Designator=C403|UniqueId=\KMPZSTXG\RPJEZGCB|Kind=1|AlternatePart= 
+Variation25=Designator=C406|UniqueId=\KMPZSTXG\QYTBOYQJ|Kind=1|AlternatePart= 
+Variation26=Designator=C409|UniqueId=\KMPZSTXG\QWDAIQMI|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -864,7 +872,7 @@ TemplateFilename=
 TemplateStoreRelative=-1
 PCB_PrintColor=1
 SCH_PrintColor=0
-PrintQuality=-4
+PrintQuality=-3
 SCH_ShowNoErc=-1
 SCH_ShowParameter=-1
 SCH_ShowProbes=-1
@@ -875,15 +883,15 @@ SCH_ShowNoteCollapsed=-1
 SCH_ExpandLogicalToPhysical=-1
 SCH_VariantName=No GTR to front panel
 SCH_ExpandComponentDesignators=-1
-SCH_ExpandNetlabels=0
-SCH_ExpandPorts=0
-SCH_ExpandSheetNumber=0
-SCH_ExpandDocumentNumber=0
+SCH_ExpandNetlabels=-1
+SCH_ExpandPorts=-1
+SCH_ExpandSheetNumber=-1
+SCH_ExpandDocumentNumber=-1
 SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for XMC_ZYNQ_data_concentrator
 
 [OutputGroup1]
 Name=Netlist Outputs
