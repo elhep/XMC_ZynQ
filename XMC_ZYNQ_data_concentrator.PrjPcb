@@ -824,261 +824,213 @@ UniqueID=BA14C730-CB51-4EE8-9834-EF5949E2B95E
 Description=No GTR to front panel
 AllowFabrication=0
 ParameterCount=0
-VariationCount=26
-Variation1=Designator=C320|UniqueId=\EAMQADDO\ROWUIKJR|Kind=1|AlternatePart= 
-Variation2=Designator=C321|UniqueId=\EAMQADDO\HCFXEMYQ|Kind=1|AlternatePart= 
-Variation3=Designator=C322|UniqueId=\EAMQADDO\HMCIVCPE|Kind=1|AlternatePart= 
-Variation4=Designator=C323|UniqueId=\EAMQADDO\WPCNPEXB|Kind=1|AlternatePart= 
-Variation5=Designator=C324|UniqueId=\EAMQADDO\LKHCUVZR|Kind=1|AlternatePart= 
-Variation6=Designator=C325|UniqueId=\EAMQADDO\NTMVTNES|Kind=1|AlternatePart= 
-Variation7=Designator=C326|UniqueId=\EAMQADDO\KOOWSKJY|Kind=1|AlternatePart= 
-Variation8=Designator=C327|UniqueId=\EAMQADDO\ZQEYSXVO|Kind=1|AlternatePart= 
-Variation9=Designator=R224|UniqueId=\VNVHPHIM\JSEHLAOW|Kind=1|AlternatePart= 
-Variation10=Designator=R100|UniqueId=\VNVHPHIM\ONXAOGUV|Kind=1|AlternatePart= 
-Variation11=Designator=R101|UniqueId=\VNVHPHIM\WNDMQWDF|Kind=1|AlternatePart= 
-Variation12=Designator=R102|UniqueId=\VNVHPHIM\YWMPNGOV|Kind=1|AlternatePart= 
-Variation13=Designator=R146|UniqueId=\VNVHPHIM\RGVLLAPA|Kind=1|AlternatePart= 
-Variation14=Designator=R108|UniqueId=\VNVHPHIM\FASXXHLY|Kind=1|AlternatePart= 
-Variation15=Designator=R99|UniqueId=\VNVHPHIM\UEFHFIAD|Kind=1|AlternatePart= 
-Variation16=Designator=R37|UniqueId=\VNVHPHIM\BLQUXOMM|Kind=1|AlternatePart= 
-Variation17=Designator=R218|UniqueId=\VNVHPHIM\LHJFXOIZ|Kind=1|AlternatePart= 
-Variation18=Designator=R98|UniqueId=\VNVHPHIM\ZJILLCHM|Kind=1|AlternatePart= 
-Variation19=Designator=C388|UniqueId=\KMPZSTXG\TKMMCQLT|Kind=1|AlternatePart= 
-Variation20=Designator=C391|UniqueId=\KMPZSTXG\SYNOHDKP|Kind=1|AlternatePart= 
-Variation21=Designator=C394|UniqueId=\KMPZSTXG\QIHKHIQB|Kind=1|AlternatePart= 
-Variation22=Designator=C397|UniqueId=\KMPZSTXG\YMGRXRIP|Kind=1|AlternatePart= 
-Variation23=Designator=C400|UniqueId=\KMPZSTXG\MYRWSFAI|Kind=1|AlternatePart= 
-Variation24=Designator=C403|UniqueId=\KMPZSTXG\RPJEZGCB|Kind=1|AlternatePart= 
-Variation25=Designator=C406|UniqueId=\KMPZSTXG\QYTBOYQJ|Kind=1|AlternatePart= 
-Variation26=Designator=C409|UniqueId=\KMPZSTXG\QWDAIQMI|Kind=1|AlternatePart= 
+VariationCount=18
+Variation1=Designator=R224|UniqueId=\VNVHPHIM\JSEHLAOW|Kind=1|AlternatePart= 
+Variation2=Designator=R100|UniqueId=\VNVHPHIM\ONXAOGUV|Kind=1|AlternatePart= 
+Variation3=Designator=R101|UniqueId=\VNVHPHIM\WNDMQWDF|Kind=1|AlternatePart= 
+Variation4=Designator=R102|UniqueId=\VNVHPHIM\YWMPNGOV|Kind=1|AlternatePart= 
+Variation5=Designator=R146|UniqueId=\VNVHPHIM\RGVLLAPA|Kind=1|AlternatePart= 
+Variation6=Designator=R108|UniqueId=\VNVHPHIM\FASXXHLY|Kind=1|AlternatePart= 
+Variation7=Designator=R99|UniqueId=\VNVHPHIM\UEFHFIAD|Kind=1|AlternatePart= 
+Variation8=Designator=R37|UniqueId=\VNVHPHIM\BLQUXOMM|Kind=1|AlternatePart= 
+Variation9=Designator=R218|UniqueId=\VNVHPHIM\LHJFXOIZ|Kind=1|AlternatePart= 
+Variation10=Designator=R98|UniqueId=\VNVHPHIM\ZJILLCHM|Kind=1|AlternatePart= 
+Variation11=Designator=C388|UniqueId=\KMPZSTXG\TKMMCQLT|Kind=1|AlternatePart= 
+Variation12=Designator=C391|UniqueId=\KMPZSTXG\SYNOHDKP|Kind=1|AlternatePart= 
+Variation13=Designator=C394|UniqueId=\KMPZSTXG\QIHKHIQB|Kind=1|AlternatePart= 
+Variation14=Designator=C397|UniqueId=\KMPZSTXG\YMGRXRIP|Kind=1|AlternatePart= 
+Variation15=Designator=C400|UniqueId=\KMPZSTXG\MYRWSFAI|Kind=1|AlternatePart= 
+Variation16=Designator=C403|UniqueId=\KMPZSTXG\RPJEZGCB|Kind=1|AlternatePart= 
+Variation17=Designator=C406|UniqueId=\KMPZSTXG\QYTBOYQJ|Kind=1|AlternatePart= 
+Variation18=Designator=C409|UniqueId=\KMPZSTXG\QWDAIQMI|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for XMC_ZYNQ_data_concentrator\BGA Escape Route - XMC_Zynq.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for XMC_ZYNQ_data_concentrator\Design Rule Check - XMC_Zynq.html
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for Free Documents\NC Drill\XMC_Zynq.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for XMC_ZYNQ_data_concentrator\NC Drill\XMC_Zynq.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for Free Documents\Gerber\XMC_Zynq.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for XMC_ZYNQ_data_concentrator\Gerber\XMC_Zynq.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for Free Documents\Gerber\XMC_Zynq.G1
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for XMC_ZYNQ_data_concentrator\Gerber\XMC_Zynq.G1
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for Free Documents\Gerber\XMC_Zynq.G2
 DItemRevisionGUID=
 
-[GeneratedDocument10]
-DocumentPath=Project Outputs for XMC_ZYNQ_data_concentrator\Gerber\XMC_Zynq.G2
-DItemRevisionGUID=
-
-[GeneratedDocument11]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for Free Documents\Gerber\XMC_Zynq.G3
 DItemRevisionGUID=
 
-[GeneratedDocument12]
-DocumentPath=Project Outputs for XMC_ZYNQ_data_concentrator\Gerber\XMC_Zynq.G3
-DItemRevisionGUID=
-
-[GeneratedDocument13]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for Free Documents\Gerber\XMC_Zynq.G4
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for XMC_ZYNQ_data_concentrator\Gerber\XMC_Zynq.G4
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for Free Documents\Gerber\XMC_Zynq.G5
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for XMC_ZYNQ_data_concentrator\Gerber\XMC_Zynq.G5
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for Free Documents\Gerber\XMC_Zynq.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for XMC_ZYNQ_data_concentrator\Gerber\XMC_Zynq.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for Free Documents\Gerber\XMC_Zynq.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for XMC_ZYNQ_data_concentrator\Gerber\XMC_Zynq.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for Free Documents\Gerber\XMC_Zynq.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for XMC_ZYNQ_data_concentrator\Gerber\XMC_Zynq.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for Free Documents\Gerber\XMC_Zynq.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for XMC_ZYNQ_data_concentrator\Gerber\XMC_Zynq.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for Free Documents\Gerber\XMC_Zynq.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for XMC_ZYNQ_data_concentrator\Gerber\XMC_Zynq.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for Free Documents\Gerber\XMC_Zynq.GP1
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for XMC_ZYNQ_data_concentrator\Gerber\XMC_Zynq.GP1
 DItemRevisionGUID=
 
-[GeneratedDocument29]
+[GeneratedDocument26]
 DocumentPath=Project Outputs for Free Documents\Gerber\XMC_Zynq.GP2
 DItemRevisionGUID=
 
-[GeneratedDocument30]
+[GeneratedDocument27]
 DocumentPath=Project Outputs for XMC_ZYNQ_data_concentrator\Gerber\XMC_Zynq.GP2
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument28]
 DocumentPath=Project Outputs for Free Documents\Gerber\XMC_Zynq.GP3
 DItemRevisionGUID=
 
-[GeneratedDocument32]
-DocumentPath=Project Outputs for XMC_ZYNQ_data_concentrator\Gerber\XMC_Zynq.GP3
-DItemRevisionGUID=
-
-[GeneratedDocument33]
+[GeneratedDocument29]
 DocumentPath=Project Outputs for Free Documents\Gerber\XMC_Zynq.GP4
 DItemRevisionGUID=
 
-[GeneratedDocument34]
-DocumentPath=Project Outputs for XMC_ZYNQ_data_concentrator\Gerber\XMC_Zynq.GP4
-DItemRevisionGUID=
-
-[GeneratedDocument35]
+[GeneratedDocument30]
 DocumentPath=Project Outputs for Free Documents\Gerber\XMC_Zynq.GP5
 DItemRevisionGUID=
 
-[GeneratedDocument36]
-DocumentPath=Project Outputs for XMC_ZYNQ_data_concentrator\Gerber\XMC_Zynq.GP5
-DItemRevisionGUID=
-
-[GeneratedDocument37]
+[GeneratedDocument31]
 DocumentPath=Project Outputs for Free Documents\Gerber\XMC_Zynq.GP6
 DItemRevisionGUID=
 
-[GeneratedDocument38]
+[GeneratedDocument32]
 DocumentPath=Project Outputs for XMC_ZYNQ_data_concentrator\Gerber\XMC_Zynq.GP6
 DItemRevisionGUID=
 
-[GeneratedDocument39]
+[GeneratedDocument33]
 DocumentPath=Project Outputs for Free Documents\Gerber\XMC_Zynq.GP7
 DItemRevisionGUID=
 
-[GeneratedDocument40]
+[GeneratedDocument34]
 DocumentPath=Project Outputs for XMC_ZYNQ_data_concentrator\Gerber\XMC_Zynq.GP7
 DItemRevisionGUID=
 
-[GeneratedDocument41]
+[GeneratedDocument35]
 DocumentPath=Project Outputs for Free Documents\Gerber\XMC_Zynq.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument42]
+[GeneratedDocument36]
 DocumentPath=Project Outputs for XMC_ZYNQ_data_concentrator\Gerber\XMC_Zynq.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument43]
+[GeneratedDocument37]
 DocumentPath=Project Outputs for Free Documents\Gerber\XMC_Zynq.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument44]
-DocumentPath=Project Outputs for XMC_ZYNQ_data_concentrator\Gerber\XMC_Zynq.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument45]
+[GeneratedDocument38]
 DocumentPath=Project Outputs for Free Documents\Gerber\XMC_Zynq.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument46]
-DocumentPath=Project Outputs for XMC_ZYNQ_data_concentrator\Gerber\XMC_Zynq.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument47]
+[GeneratedDocument39]
 DocumentPath=Project Outputs for Free Documents\Gerber\XMC_Zynq.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument48]
-DocumentPath=Project Outputs for XMC_ZYNQ_data_concentrator\Gerber\XMC_Zynq.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument49]
+[GeneratedDocument40]
 DocumentPath=Project Outputs for Free Documents\NC Drill\XMC_Zynq.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument50]
+[GeneratedDocument41]
 DocumentPath=Project Outputs for XMC_ZYNQ_data_concentrator\NC Drill\XMC_Zynq.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument51]
+[GeneratedDocument42]
 DocumentPath=Project Outputs for Free Documents\Gerber\XMC_Zynq.REP
 DItemRevisionGUID=
 
-[GeneratedDocument52]
+[GeneratedDocument43]
 DocumentPath=Project Outputs for XMC_ZYNQ_data_concentrator\Gerber\XMC_Zynq.REP
 DItemRevisionGUID=
 
-[GeneratedDocument53]
+[GeneratedDocument44]
 DocumentPath=Project Outputs for Free Documents\Gerber\XMC_Zynq.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument54]
+[GeneratedDocument45]
 DocumentPath=Project Outputs for XMC_ZYNQ_data_concentrator\Gerber\XMC_Zynq.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument55]
+[GeneratedDocument46]
 DocumentPath=Project Outputs for Free Documents\NC Drill\XMC_Zynq.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument56]
+[GeneratedDocument47]
 DocumentPath=Project Outputs for XMC_ZYNQ_data_concentrator\NC Drill\XMC_Zynq.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument57]
-DocumentPath=Project Outputs for XMC_ZYNQ_data_concentrator\XMC_Zynq.xls
 DItemRevisionGUID=
 
 [Configuration1]
